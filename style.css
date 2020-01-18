@@ -32,3 +32,21 @@ header h1 {
 #section3 {
     background-color: orange;
 }
+
+#section3 p {
+    padding: 20px;
+    padding-left: 30px;
+    background-color: beige;
+}
+
+#section3 img {
+    float: left;
+    background-color: red;
+    padding: 10px;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+h2 {}
