@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+
+#content {
+    background-color: black;
+    width: 1080px;
+    margin: auto;
+}
+
+header {
+    background-color: aqua;
+}
+
+#section1 {
+    background-color: yellow;
+}
+
+#section2 {
+    background-color: green;
+}
+
+#section3 {
+    background-color: orange;
+}
