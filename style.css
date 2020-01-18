@@ -17,6 +17,8 @@ header h1 {
     text-align: center;
     font-size: 200px;
     padding: 10px;
+    text-decoration: underline;
+    text-decoration-color: red;
 }
 
 #section1 {
